@@ -1,7 +1,7 @@
 A self taught skilled junior web developer who makes ideas realistic. Starting from design, He codes things beutifully managed and efficient.
 
 
-- 👋 Hi, I’m @ahmedaamirtauqeer
+- 👋 Hi, I’m @aenicz
 - 👀 I’m interested in HTML, CSS, JS, WordPress
 - 🌱 I’m currently learning Django on Python
 - 💞️ I’m looking to collaborate on Fiverr
