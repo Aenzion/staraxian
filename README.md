@@ -1,15 +1,15 @@
 ### Hi there, I'm Ahmed - aka [aenff][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=aenff.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aenff.tk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aenffkr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcaenffkr&screen_name=aenffkr)
 
 ## I'm a Student, Gamer, Developer, and Programmer!!
 
 - 🔭 I just launched my first website: [for Muhammad Tauqeer][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other people on Discord
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play Krunker
 
 ### Connect with me:
 
