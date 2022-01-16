@@ -5,7 +5,7 @@
 
 ## I'm a Student, Gamer, Developer, and Programmer!!
 
-- 🔭 I just launched my first website: [for Muhammad Tauqeer][course]!
+- 🔭 I just launched my first website: [for aenff][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people on Discord
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -53,7 +53,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://muhammadxt.github.io
+[course]: http://aenff.carrd.co
 [twitter]: https://twitter.com/aenffkr
 [youtube]: https://youtube.com/AENFF.
 [instagram]: https://instagram.com/aenffkr
