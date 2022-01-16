@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed - aka [aenff][website] 👋 
 
 [![Website](https://img.shields.io/website?label=aenff.tk&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aenff.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aenffkr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faenffkrr&screen_name=aenff)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aenffkr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faenffkrr&screen_name=aenffkr)
 
 ## I'm a Student, Gamer, Developer, and Programmer!!
 
